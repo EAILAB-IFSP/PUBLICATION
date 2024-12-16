@@ -1,2 +1,2 @@
 # PUBLICATION
-Publicações do EAILab
+Publicações do EAILab, Laboratório de Inteligência Artificial Embarcada, IFSP campus Cubatão, Brasil
