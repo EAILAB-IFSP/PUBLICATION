@@ -6,8 +6,32 @@
     <title>Publicações do EAILAB-IFSP</title>
     <style>
 
+<body>
 
-    <img src="EAILab_logo_curto.jpg" width="104" height="142">
+        body {
+            font-size: 16px;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        .titulo {
+            font-family:fantasy;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-top: 60px;
+            letter-spacing: 2px;
+            font-size: 25px;
+            text-align: center;
+            padding: 0 15px;
+        }
+
+    <div class="titulo">
+        <h1> PUBLICAÇÕES DO EAILAB - IFSP </h1>
+    </div>
+    
+<img src="EAILab_logo_curto.jpg" width="104" height="142">
 
     <p>EBOOK - COLETÂNEA DE DICAS, ORIENTAÇÕES E REFERÊNCIAS EM INTELIGÊNCIA ARTIFICIAL, 6º edição, 2024</p>
     <a href="https://github.com/EAILAB-IFSP/PUBLICATIONS/blob/main/AI%20Cards%20Collection%20-%20EAILab%20v6%202024.pdf">
